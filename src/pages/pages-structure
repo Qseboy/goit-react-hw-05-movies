@@ -1,0 +1,2 @@
+Layout / HomePage movies movies/:movieId `MovieDetails` movies/:moviesId/cast
+movies/:moviesId/reviews
